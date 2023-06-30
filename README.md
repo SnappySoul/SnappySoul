@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SnappySoul
-- 👀 I’m interested in working in python
+- 👀 I’m interested in working in Python
 - 🌱 I’am currently learning the Python programming language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 8103900343 snappy_soul@mail.ru
